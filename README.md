@@ -1,5 +1,5 @@
 ## 2D sonsuz uzay shooter oyunu
 
 <div align="center">
-    <img src="https://pasteboard.co/IMjcdpo.png" style=" width:100px ; height:100px " /> 
+    <img src="https://pasteboard.co/IMjcdpo.png" style=" width:1920px ; height:1080px " /> 
 </div>
